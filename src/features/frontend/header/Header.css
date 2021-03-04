@@ -1,0 +1,19 @@
+.btn{
+    background-color: #FF8C00;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #B8860C;
+}
+#collasible-nav-dropdown::after{
+    display: none;
+}
+
+/* .......... Media Queries .......... */
+
+/* .......... desktop and laptop .......... */
+
+
+/* .......... Tablets & ipads  .......... */
+
+/* .......... Mobile Phones .......... */

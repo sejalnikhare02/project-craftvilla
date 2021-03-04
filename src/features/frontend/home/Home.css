@@ -1,0 +1,261 @@
+.head{
+    margin-top: 5rem ;
+    color: #DC143C	;
+    margin-left: 3.5rem;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.2222222;
+    }
+.lable-email{
+    margin-right: 0.8rem;
+    margin-bottom: 0.8rem;
+    opacity: 0;
+    position: absolute;
+    }
+.email{
+    margin-right: 1.5rem;
+    margin-left: 0.6rem;
+    height:2.39em ;
+    padding: 1em ;
+    padding-right: 3em;
+    margin-left: 3.5rem;
+    }
+.email:hover{
+    border-color:#DC143C;
+    cursor: pointer;
+    }
+#msg{
+    color:rgb(14, 12, 12);
+    text-align: left;
+    margin-top: 1.5rem;
+    font-size: 0.7em;
+    margin-left: 3.5rem;
+    }
+
+#img1{
+    background-size: cover;
+    height: 24.2em;
+    width:94.6%;
+    overflow: hidden;
+    position: absolute;
+    }
+    #creation{
+        margin-left:3.5rem ;
+    }
+    #para{
+        margin-left: 3.5rem;
+        font-size: 14px;
+        margin-top: 0.5rem;
+    }
+    .example{
+        text-decoration: none;
+        color: black;
+        margin-left: 3.5rem;
+        margin-top: none;
+        margin-bottom: 2rem;
+        font-weight: bold;
+    }
+    .example:hover{
+        color: blanchedalmond;
+    }
+    #forward{
+        margin-top: 3rem;
+        margin-left: 3.5rem;
+    }
+    #shopify{
+        font-weight: bold;
+    }
+    #shopify-para{
+        font-size: 13px;
+        padding-top: 0;
+        margin-bottom: 4rem;
+    }
+    .sell{
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+    #sell-head{
+        text-align: center;
+    }
+    #sell-para{
+        text-align:center;
+        font-size: 1.25em;
+        color: rgb(80, 71, 71);
+        width: 39%;
+        margin: 0 auto;
+    }
+    #block-head{
+        margin-top: 7rem;
+    }
+    #block-para{
+        line-height: 1.5;
+        font-size: 13px;
+        margin-right: 5rem;
+        margin-top: 1rem;
+        color: rgb(80, 71, 71);
+    }
+    #alfred-img{
+        width:11.1rem;
+        height: 19.5rem;
+        margin-right: 0.9rem;
+        margin-top: 2.5rem;
+        box-shadow: 1px 3px black ;
+        border-radius: 5px;
+    }
+    #alfred-Link{
+        font-weight: bold;
+        text-transform: capitalize;
+        margin-top: 1rem;
+        color: black;
+    }
+    #alfred-Link:hover{
+        /* text-decoration: none; */
+        color: #000;
+        
+    }
+    #sell-img{
+        height: 22rem;
+        width: 24rem;
+        margin-top: 4rem;
+        margin-bottom: 2rem;
+        box-shadow: rgb(243, 239, 239) 5px 5px 6px 6px;
+    }
+    #owner-head, #owner-para{
+        margin-top: 1.5rem;
+        margin-left:3.5rem;
+    }
+    .earth-img{
+        width: 42rem;
+        height: 37rem;
+        margin-left: 13rem;
+    }
+    #fashion-img{
+        width:33rem ;
+        height: 32rem;
+        background-size: cover;
+        margin-top: 4rem;
+        margin-right: none;
+        
+    }
+    .fashion-col{
+        background-color: #FF8C00;
+        border: #FF8C00;
+        margin-top: 4rem;
+        margin-right: 0.5rem;
+        box-sizing: border-box;
+        margin-left: none;
+    }
+    #fashion-para{
+        margin-top: 8rem;
+        margin-bottom: 4rem;
+        font-weight: bold;
+        font-size: 18px;
+        text-align: center;
+        padding-left: 4.5rem;
+        padding-right: 4.5rem;
+    }
+    #fashion-logo{
+        padding-left: 8.5rem;
+        width:17rem;
+    }
+    #logo-emoji{
+        width: 6.5rem;
+        height: 6rem;
+        margin-top: 2.5rem;
+        margin-right: 0.5rem;
+        margin-left: 3.6rem;
+    }
+    .grid-col{
+        margin-top: 4.5rem;
+    }
+    .grid-head{
+        text-align: center;
+        /* margin-top: 2rem; */
+        margin: 2rem;
+    }
+    h6{
+        color: #FF8C00;
+        margin-left: 4.5rem;
+    }
+    #grid-Link{
+        color: #FF8C00;
+        margin-left: 4.5rem;
+ 
+    }
+    #grid-para{
+        margin-left: 4.5rem;
+    }
+.bottom{
+    text-align: center;
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+}
+.link-foot{
+    padding-left: 3.5rem;
+    padding-top: 2rem;
+    padding-right: 4rem;
+}
+.footer-link{
+    color: black;
+    font-weight: bold;
+    margin-right: 1.5rem;
+}
+.footer-link:hover{
+    color: black;
+}
+#foot-sec-para{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+.foot-section-link{
+    color: rgb(24, 23, 23);
+    margin-bottom: 2rem;
+}
+.foot-section-link:hover{
+    color: rgb(24, 23, 23);
+    text-decoration: none;
+    font-weight: bold;
+}
+.terms{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+/* .......... Media Queries .......... */
+
+/* .......... desktop and laptop .......... */
+@media (min-width: 1024px){
+
+    
+}
+
+/* .......... Tablets & ipads  .......... */
+@media (min-width: 769px) and (max-width: 1023px){
+
+
+}
+
+/* .......... Mobile Phones .......... */
+@media (max-width: 768px){
+    .main{
+        width: 100%;
+        height: auto;
+    }
+    #img1{
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+    }
+}
+
+@media (max-width: 460px){
+    .container-fluid img{
+        padding: 10%;
+        box-sizing: border-box;
+    }
+}
+    
+
+    
+
